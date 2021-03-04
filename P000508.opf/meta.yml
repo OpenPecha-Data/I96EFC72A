@@ -1,22 +1,24 @@
-id: opecha:P000508
+id: P000508
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17096
   title: ཡོན་ཏན་མཛོད་ཀྱི་འགྲེལ་པ་ཉི་ཟླའི་སྒྲོན་མེ། རྩྭ་ར་མཁན་པོ་ཆོས་གྲགས་ཀྱི་མཆན་ཅན།
-  volume:
+  author: ''
+  volumes:
     c11681db1d8f45ccba330ed579bff5e8:
       image_group_id: I3PD880
       title: Volume 1 of yon tan mdzod kyi ʼgrel pa nyi zlaʼi sgron me/ rtsw ra mkhan
         po chos grags kyi mchan can/
       volume_number: 1
       total_pages: 778
+      base_file: v001.txt
     8b15bc5cbc494759a49da42bb1fea7fe:
       image_group_id: I3PD881
       title: Volume 2 of yon tan mdzod kyi ʼgrel pa nyi zlaʼi sgron me/ rtsw ra mkhan
         po chos grags kyi mchan can/
       volume_number: 2
       total_pages: 638
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: ཡོན་ཏན་མཛོད་ཀྱི་འགྲེལ་པ་ཉི་ཟླའི་སྒྲོན་མེ། རྩྭ་ར་མཁན་པོ་ཆོས་གྲགས་ཀྱི་མཆན་ཅན།
   author: ''
