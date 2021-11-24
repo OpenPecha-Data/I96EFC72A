@@ -1,5 +1,7 @@
 id: P000508
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2PD17096
   title: ཡོན་ཏན་མཛོད་ཀྱི་འགྲེལ་པ་ཉི་ཟླའི་སྒྲོན་མེ། རྩྭ་ར་མཁན་པོ་ཆོས་གྲགས་ཀྱི་མཆན་ཅན།
@@ -19,10 +21,3 @@ source_metadata:
       volume_number: 2
       total_pages: 638
       base_file: v002.txt
-ebook_metadata:
-  title: ཡོན་ཏན་མཛོད་ཀྱི་འགྲེལ་པ་ཉི་ཟླའི་སྒྲོན་མེ། རྩྭ་ར་མཁན་པོ་ཆོས་གྲགས་ཀྱི་མཆན་ཅན།
-  author: ''
-  sku: P000508
-  cover: cover.jpg
-  layers:
-  - pagination
